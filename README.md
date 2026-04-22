@@ -35,26 +35,4 @@
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 <br>
 
-## Stats
-
-<p>
-  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClearSky00&langs_count=8&layout=compact&theme=transparent&title_color=6366F1&text_color=6366F1&hide_border=true" />
-  <img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ClearSky00&theme=transparent&ring=6366F1&fire=22D3EE&currStreakLabel=6366F1&hide_border=true" />
-</p>
-
-<p>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ClearSky00&bg_color=00000000&color=6366F1&line=22D3EE&point=10B981&hide_border=true" />
-</p>
-
-<br>
-
-## Currently
-
-- Building full-stack web applications
-- Exploring machine learning and AI
-
-<br>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ClearSky00&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" width="100%"/>
