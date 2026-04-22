@@ -38,7 +38,7 @@
 ## Stats
 
 <p>
-  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClearSky00&langs_count=8&layout=compact&theme=transparent&title_color=6366F1&text_color=ffffff&hide_border=true" />
+  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClearSky00&langs_count=8&layout=compact&theme=transparent&title_color=6366F1&text_color=6366F1&hide_border=true" />
   <img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ClearSky00&theme=transparent&ring=6366F1&fire=22D3EE&currStreakLabel=6366F1&hide_border=true" />
 </p>
 
