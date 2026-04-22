@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Full%20Stack-6366F1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Machine%20Learning-22D3EE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Algorithms-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-LLMS-10B981?style=for-the-badge" />
 </p>
 
 <br>
@@ -18,10 +18,10 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
